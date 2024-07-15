@@ -7,7 +7,7 @@
 #
 Name     : R-RPushbullet
 Version  : 0.3.4
-Release  : 1
+Release  : 2
 URL      : https://cran.r-project.org/src/contrib/RPushbullet_0.3.4.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/RPushbullet_0.3.4.tar.gz
 Summary  : R Interface to the Pushbullet Messaging Service
@@ -34,10 +34,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1721072995
+export SOURCE_DATE_EPOCH=1721073854
 
 %install
-export SOURCE_DATE_EPOCH=1721072995
+export SOURCE_DATE_EPOCH=1721073854
 rm -rf %{buildroot}
 LANG=C.UTF-8
 CFLAGS="$CLEAR_INTERMEDIATE_CFLAGS -O3 -flto -fno-semantic-interposition "
