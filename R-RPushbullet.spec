@@ -7,7 +7,7 @@
 #
 Name     : R-RPushbullet
 Version  : 0.3.4
-Release  : 2
+Release  : 3
 URL      : https://cran.r-project.org/src/contrib/RPushbullet_0.3.4.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/RPushbullet_0.3.4.tar.gz
 Summary  : R Interface to the Pushbullet Messaging Service
